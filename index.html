@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./src/style.css">
+    <title>Gerador de senhas</title>
+</head>
+<body>
+    <div class="container_app">
+        <div class="header">
+            <h1>Gerador de senhas</h1>
+        </div>
+
+        <form class="container_form">
+
+            <div class='section_label_input'>
+                <label for="pass">Qual o tamanho da senha?</label>
+                <input type="text" id="pass" min="0" max="15">
+            </div>
+
+            <button type="submit" id="genarate_button">Gerar senha</button>
+            
+            <div class="div_new_pass">
+                <span id="new_pass"></span>
+            </div>
+        </form>
+
+    </div>
+
+    <span>Voce pode gerar uma senha de até 15 caracteres</span>
+
+    <script type="module" src="./src/script.js"></script>
+</body>
+</html>
