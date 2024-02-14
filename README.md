@@ -18,16 +18,8 @@ Este projeto consiste em um gerador de senhas aleatórias que cria senhas de at�
 
 2. **Navegue até o Diretório do Projeto:**
     ```bash
-    cd gerador-de-senhas
+    Abra o arquivo index.html em seu navegador
     ```
-
-3. **Execute o Script Python:**
-    ```bash
-    python gerador_de_senhas.py
-    ```
-
-4. **Siga as Instruções na Linha de Comando:**
-   Ajuste as configurações conforme desejado para personalizar suas senhas.
 
 
 ## Contribuições
