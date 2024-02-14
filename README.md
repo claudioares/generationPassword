@@ -13,7 +13,7 @@ Este projeto consiste em um gerador de senhas aleatórias que cria senhas de at�
 
 1. **Clone o Repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/gerador-de-senhas.git
+    git@github.com:claudioares/password-generator.git
     ```
 
 2. **Navegue até o Diretório do Projeto:**
