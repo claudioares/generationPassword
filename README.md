@@ -1,5 +1,4 @@
 # Password-generator
-Descrição do Projeto
 Este projeto consiste em um gerador de senhas aleatórias que cria senhas de até 15 caracteres. A ferramenta é útil para garantir a segurança de suas contas online, proporcionando senhas robustas e difíceis de serem decifradas.
 
 ## Funcionalidades
